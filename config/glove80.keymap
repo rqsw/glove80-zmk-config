@@ -130,7 +130,7 @@
 &trans     &trans     &kp Q   &kp W   &kp E   &kp R                                                      &trans  &trans  &trans  &trans  &trans  &trans
 &kp TAB    &kp LSHFT  &kp A   &kp S   &kp D   &kp F                                                      &trans  &trans  &trans  &trans  &trans  &trans
 &kp GRAVE  &trans     &trans  &trans  &trans  &kp G   &kp SPACE  &trans  &kp V   &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
-&trans     &trans     &trans  &trans  &trans          &trans     &trans  &trans  &trans  &trans  &trans          &trans  &trans  &trans  &trans  &to 0
+&trans     &trans     &trans  &trans  &trans          &kp T      &trans  &trans  &trans  &trans  &trans          &trans  &trans  &trans  &trans  &to 0
             >;
         };
     };
